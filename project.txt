@@ -1,0 +1,16 @@
+
+          *********************PET-CARE**********************
+
+Si vuole una Web Application dove è possibile gestire il profilo dei nostri clienti
+e il profilo dei loro animali domestici,
+segnare gli appuntamenti presi via telefono con gli specifici dottori,
+specificando la loro specializzazione  e tutti i dettagli associati 
+all'appuntamento come orario e giorno previsto.
+Nel portale si ha la possibilità di inserire file di visite mediche,
+di modificare il proprio account, i dati dei propri animali domestici
+e si ha la possibilità di consultare i profili dei vari specialisti.
+L'applicazione deve avere anche una funzione che riguarda il personale interno,
+dove i medici stessi possono modificare i loro profili e inoltre si richiede
+una sezione admin dove è possibile inserire i dottori e clienti nuovi.
+          
+          *********************PET-CARE**********************
